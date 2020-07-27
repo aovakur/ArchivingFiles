@@ -1,0 +1,6 @@
+C:\Users\Andrey\source\repos\Archiv\Archiv\obj\Debug\Archiv.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Archiv\Archiv\bin\Debug\Archiv.exe.config
+C:\Users\Andrey\source\repos\Archiv\Archiv\bin\Debug\Archiv.exe
+C:\Users\Andrey\source\repos\Archiv\Archiv\bin\Debug\Archiv.pdb
+C:\Users\Andrey\source\repos\Archiv\Archiv\obj\Debug\Archiv.exe
+C:\Users\Andrey\source\repos\Archiv\Archiv\obj\Debug\Archiv.pdb

@@ -1,0 +1,7 @@
+C:\Users\Andrey\source\repos\Archiv\Archiv\bin\Release\Archiv.exe.config
+C:\Users\Andrey\source\repos\Archiv\Archiv\bin\Release\Archiv.exe
+C:\Users\Andrey\source\repos\Archiv\Archiv\bin\Release\Archiv.pdb
+C:\Users\Andrey\source\repos\Archiv\Archiv\obj\Release\Archiv.csprojAssemblyReference.cache
+C:\Users\Andrey\source\repos\Archiv\Archiv\obj\Release\Archiv.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Archiv\Archiv\obj\Release\Archiv.exe
+C:\Users\Andrey\source\repos\Archiv\Archiv\obj\Release\Archiv.pdb
